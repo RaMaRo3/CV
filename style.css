@@ -8,9 +8,7 @@ html {
 	font-size: 10px;
 }
 
-li{
-	text-align: justify;
-}
+
 
 body {
 	font-family: monospace;
@@ -26,7 +24,7 @@ a {
 	color: #F0F2F2;
 }
 p{
-	text-align: justify;
+	
 	line-height : 20px;
 }
 .description {
